@@ -1,18 +1,18 @@
 ## Hello 👋, I'm Magnus Bernet
 
-<a href="linkedin.magnusbernet.de">
+<a href="http://linkedin.magnusbernet.de">
   <span>LinkedIn</span>
 </a>
 <br>
-<a href="xing.magnusbernet.de">
+<a href="http://xing.magnusbernet.de">
   <span>Xing</span>
 </a>
 </br>
-<a href="youtube.magnusbernet.de">
+<a href="http://youtube.magnusbernet.de">
   <span>YouTube<span>
 </a>
 </br>
-<a href="gitlab.magnusbernet.de">
+<a href="http://gitlab.magnusbernet.de">
   <span>Gitlab<span>
 </a>
 </br>
