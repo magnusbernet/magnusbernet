@@ -1,17 +1,22 @@
 ## Hello 👋, I'm Magnus Bernet
 
-<a href="https://www.linkedin.com/in/magnusbernet/">
+<a href="linkedin.magnusbernet.de">
   <span>LinkedIn</span>
 </a>
 <br>
-<a href="https://www.xing.com/profile/Magnus_Bernet/">
+<a href="xing.magnusbernet.de">
   <span>Xing</span>
 </a>
 </br>
-<a href="https://www.youtube.com/channel/UC3uVELHQuQ0lhgMl5kHaTVg">
+<a href="youtube.magnusbernet.de">
   <span>YouTube<span>
 </a>
 </br>
+<a href="gitlab.magnusbernet.de">
+  <span>Gitlab<span>
+</a>
+</br>
+
 
 ### Tech Stack 🔧
 
